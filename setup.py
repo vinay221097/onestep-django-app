@@ -1,4 +1,4 @@
-from distutils.core import setup
+from distutils.core import setup,find_packages
 setup(name='onestep-django-app',
       description='installing django web app in one step',
       version='0.1',
@@ -8,7 +8,7 @@ setup(name='onestep-django-app',
       classifiers=[
           'Programming Language :: Python :: 3'
       ],
-      packages=['onestep-django-app'],
+      packages=find_packages(),
       install_requires=[
           'django',
           'pillow',

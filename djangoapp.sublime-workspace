@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"one",
+				"onestep-django-app"
+			],
+			[
 				"st",
 				"static"
 			],
@@ -510,15 +514,37 @@
 			[
 				"creat",
 				"create_workers"
-			],
-			[
-				"que",
-				"queue"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "setup.py",
+			"settings":
+			{
+				"buffer_size": 625,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "cred.pypirc",
+			"settings":
+			{
+				"buffer_size": 108,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -582,8 +608,14 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/C/Users/VINAY/Desktop/djangoapp"
+	],
 	"file_history":
 	[
+		"/C/Users/VINAY/Desktop/djangoapp/setup.cfg",
+		"/C/Users/VINAY/Desktop/djangoapp/setup.py",
 		"/D/myproject/LICENSE.txt",
 		"/D/myproject/setup.cfg",
 		"/D/myproject/cred.pypirc",
@@ -709,9 +741,7 @@
 		"/E/pythonmail/imapgmail.py",
 		"/E/nltk/intro2.py",
 		"/E/templates/drop.html",
-		"/C/Users/VINAY/Desktop/dyan.html",
-		"/C/Users/VINAY/Desktop/dyanamic.html",
-		"/C/Users/VINAY/Desktop/sty.css"
+		"/C/Users/VINAY/Desktop/dyan.html"
 	],
 	"find":
 	{
@@ -764,8 +794,95 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "setup.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 625,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "cred.pypirc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 108,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								108,
+								108
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
